@@ -1,0 +1,6 @@
+
+cd C:\Users\JM\Documents\jessmorrison.github.io
+
+git add *
+git commit -m ""
+git push origin master
